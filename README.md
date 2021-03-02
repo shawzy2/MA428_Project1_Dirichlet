@@ -1,7 +1,7 @@
 # MA428_Project1_Dirichlet
 
 ## Project Report
-[https://docs.google.com/document/d/1YJ97vVqsrVNQWxs0-febguCMsLVxYv-3EgadoT_Nem4/edit?usp=sharing](https://docs.google.com/document/d/1YJ97vVqsrVNQWxs0-febguCMsLVxYv-3EgadoT_Nem4/edit?usp=sharing)
+[https://drive.google.com/file/d/15K0cttXLqIh4KGxobpQfS1ZylITyjOYk/view?usp=sharing](https://drive.google.com/file/d/15K0cttXLqIh4KGxobpQfS1ZylITyjOYk/view?usp=sharing)
 
 
 ## Commands to get started (MacOS)
